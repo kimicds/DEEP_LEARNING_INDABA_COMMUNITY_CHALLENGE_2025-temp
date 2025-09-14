@@ -1,6 +1,6 @@
 # DEEP_LEARNING_INDABA_COMMUNITY_CHALLENGE_2025
 
-# 🌍 Machine Learning Model for Predicting Ambient CO₂ Concentration Using Nigerian Low-Cost Sensors  
+## 🌍 Machine Learning Model for Predicting Ambient CO₂ Concentration Using Nigerian Low-Cost Sensors  
 
 ## 📌 Overview  
 This project was developed by the **DSN FUTMINNA Team** as part of a research initiative to address climate challenges in Africa.  
